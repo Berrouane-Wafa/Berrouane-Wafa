@@ -1,6 +1,6 @@
-## Hi there 👋
+## 
 
-<!--
+
 Software Engineer holding a Master's Degree in Software Engineering. I focus on designing scalable web applications, robust relational database architectures, and maintainable backend systems.
 
 ### 💻 Technical Stack
@@ -30,4 +30,4 @@ Software Engineer holding a Master's Degree in Software Engineering. I focus on 
 ---
 
 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/yourprofile) 
--->
+
